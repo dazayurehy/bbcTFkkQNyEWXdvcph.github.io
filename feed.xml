@@ -3,12 +3,46 @@
     <title>La Que Se Avecina</title>
     <link href="https://lqsa.ml/feed.xml" rel="self" />
     <link href="https://lqsa.ml" />
-    <updated>2022-11-21T12:58:33+00:00</updated>
+    <updated>2022-11-21T13:17:10+00:00</updated>
     <author>
         <name>LQSA</name>
     </author>
     <id>https://lqsa.ml</id>
 
+    <entry>
+        <title>FDF</title>
+        <author>
+            <name>LQSA</name>
+        </author>
+        <link href="https://lqsa.ml/fdf/"/>
+        <id>https://lqsa.ml/fdf/</id>
+            <category term="En directo"/>
+
+        <updated>2022-11-21T13:17:10+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Telecinco</title>
+        <author>
+            <name>LQSA</name>
+        </author>
+        <link href="https://lqsa.ml/telecinco/"/>
+        <id>https://lqsa.ml/telecinco/</id>
+            <category term="En directo"/>
+
+        <updated>2022-11-21T13:16:11+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Sin programacion disponible
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Sin programacion disponible</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>La que se avecina Temporada 13 Capítulo 173</title>
         <author>
@@ -198,54 +232,6 @@
             <![CDATA[
                     <p><img src="https://lqsa.ml/media/posts/170/156.jpg" class="type:primaryImage" alt="La que se avecina Temporada 11 Capítulo 154" /></p>
                 <p>A Antonio se le ocurre que aparece una fosa con restos humanos en la comunidad para detener la expropiación. Fermín empieza a vivir con Agustín y consolida su romance secreto con Berta. Lola financiará el debut teatral de Yoli de la mano de “La gata sobre el tejado de zinc”. Amador continúa su relación con Irene y Maite, pero su vida se complica cada vez más.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>La que se avecina Temporada 12 Capítulo 165</title>
-        <author>
-            <name>LQSA</name>
-        </author>
-        <link href="https://lqsa.ml/la-que-se-avecina-temporada-12-capitulo-165/"/>
-        <id>https://lqsa.ml/la-que-se-avecina-temporada-12-capitulo-165/</id>
-        <media:content url="https://lqsa.ml/media/posts/169/156.jpg" medium="image" />
-            <category term="Temporada 12"/>
-
-        <updated>2022-11-14T18:15:30+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://lqsa.ml/media/posts/169/156.jpg" alt="La que se avecina Temporada 11 Capítulo 154" />
-                    Bruno encuentra a Ongombo desnudo en el baño y le comenta el tamaño de su miembro viril a Enrique. Ambos entrarán en crisis con sus&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://lqsa.ml/media/posts/169/156.jpg" class="type:primaryImage" alt="La que se avecina Temporada 11 Capítulo 154" /></p>
-                <p>Bruno encuentra a Ongombo desnudo en el baño y le comenta el tamaño de su miembro viril a Enrique. Ambos entrarán en crisis con sus respectivos atributos sexuales. Antonio Recio, harto de los desacuerdos con Dios, decide apostatar y vender su alma al diablo. Yoli y Lola usan una aplicación de contactos y terminan conociendo a un hombre que les gusta a ambas, pero el hombre guarda un secreto.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>La que se avecina Temporada 12 Capítulo 164</title>
-        <author>
-            <name>LQSA</name>
-        </author>
-        <link href="https://lqsa.ml/la-que-se-avecina-temporada-12-capitulo-164/"/>
-        <id>https://lqsa.ml/la-que-se-avecina-temporada-12-capitulo-164/</id>
-        <media:content url="https://lqsa.ml/media/posts/168/156.jpg" medium="image" />
-            <category term="Temporada 12"/>
-
-        <updated>2022-11-13T23:44:18+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://lqsa.ml/media/posts/168/156.jpg" alt="La que se avecina Temporada 11 Capítulo 154" />
-                    Los vecinos acuden a la plataforma de afectados por las expropiaciones. Enrique ofrece a Bruno entrar en política y le presenta como flamante fichaje del&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://lqsa.ml/media/posts/168/156.jpg" class="type:primaryImage" alt="La que se avecina Temporada 11 Capítulo 154" /></p>
-                <p>Los vecinos acuden a la plataforma de afectados por las expropiaciones. Enrique ofrece a Bruno entrar en política y le presenta como flamante fichaje del ACDC. Maite empieza a tener problemas con las feministas por el Templo Kundalini mientras ofrece a Amador volver con ella, pero “reseteando”. Amador se ve en las disyuntiva de elegir entre dos mujeres.</p>
             ]]>
         </content>
     </entry>
