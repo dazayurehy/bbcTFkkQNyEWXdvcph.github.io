@@ -3,12 +3,25 @@
     <title>La Que Se Avecina</title>
     <link href="https://lqsa.ml/feed.xml" rel="self" />
     <link href="https://lqsa.ml" />
-    <updated>2022-11-21T13:17:10+00:00</updated>
+    <updated>2022-11-21T13:24:16+00:00</updated>
     <author>
         <name>LQSA</name>
     </author>
     <id>https://lqsa.ml</id>
 
+    <entry>
+        <title>LQSA 24h</title>
+        <author>
+            <name>LQSA</name>
+        </author>
+        <link href="https://lqsa.ml/lqsa-24h/"/>
+        <id>https://lqsa.ml/lqsa-24h/</id>
+            <category term="En directo"/>
+
+        <updated>2022-11-21T13:24:16+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>FDF</title>
         <author>
@@ -18,9 +31,22 @@
         <id>https://lqsa.ml/fdf/</id>
             <category term="En directo"/>
 
-        <updated>2022-11-21T13:17:10+00:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-11-21T13:22:30+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Lunes a Viernes 13:20h, 17:00h a 20:00h (XS), 20:15h y 00:50h. 13:20h a 17:00h, 18:30h y 01:00h. 13:25h a 17:00h, 18:30h a 05:00h.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 id="mce_23" class="has-text-align-center">Lunes a Viernes</h3>
+<p class="has-text-align-center">13:20h, 17:00h a 20:00h <span class="has-inline-color has-black-color"><strong>(XS)</strong></span>, 20:15h y 00:50h.</p>
+<h3>Sábados</h3>
+<p class="has-text-align-center">13:20h a 17:00h, 18:30h y 01:00h.</p>
+<h3>Domingos y Festivos</h3>
+<p class="has-text-align-center">13:25h a 17:00h, 18:30h a 05:00h.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Telecinco</title>
@@ -31,7 +57,7 @@
         <id>https://lqsa.ml/telecinco/</id>
             <category term="En directo"/>
 
-        <updated>2022-11-21T13:16:11+00:00</updated>
+        <updated>2022-11-21T13:20:48+00:00</updated>
             <summary>
                 <![CDATA[
                     Sin programacion disponible
@@ -208,30 +234,6 @@
             <![CDATA[
                     <p><img src="https://lqsa.ml/media/posts/171/156.jpg" class="type:primaryImage" alt="La que se avecina Temporada 11 Capítulo 154" /></p>
                 <p>Los vecinos intentan reunirse en el ministerio de fomento con el moroso cabrón. Antonio, harto, decide resucitar a los payasos justicieros y hacerle una visita al vicepresidente del gobierno. Berta, tras consultar con el padre Alejandro, decide romper con Fermín, que a su vez descubre que Vicente se ha echado “novia”.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>La que se avecina Temporada 12 Capítulo 166</title>
-        <author>
-            <name>LQSA</name>
-        </author>
-        <link href="https://lqsa.ml/la-que-se-avecina-temporada-12-capitulo-166/"/>
-        <id>https://lqsa.ml/la-que-se-avecina-temporada-12-capitulo-166/</id>
-        <media:content url="https://lqsa.ml/media/posts/170/156.jpg" medium="image" />
-            <category term="Temporada 12"/>
-
-        <updated>2022-11-14T18:16:46+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://lqsa.ml/media/posts/170/156.jpg" alt="La que se avecina Temporada 11 Capítulo 154" />
-                    A Antonio se le ocurre que aparece una fosa con restos humanos en la comunidad para detener la expropiación. Fermín empieza a vivir con Agustín&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://lqsa.ml/media/posts/170/156.jpg" class="type:primaryImage" alt="La que se avecina Temporada 11 Capítulo 154" /></p>
-                <p>A Antonio se le ocurre que aparece una fosa con restos humanos en la comunidad para detener la expropiación. Fermín empieza a vivir con Agustín y consolida su romance secreto con Berta. Lola financiará el debut teatral de Yoli de la mano de “La gata sobre el tejado de zinc”. Amador continúa su relación con Irene y Maite, pero su vida se complica cada vez más.</p>
             ]]>
         </content>
     </entry>
